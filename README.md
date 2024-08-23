@@ -65,7 +65,7 @@ The experiment was conducted with the following steps:
 
 ## Demonstration
 
-![Demo-Video](FurGuide.mov)
+[![Video-Demo](https://img.youtube.com/vi/13Q6qLhceL8/0.jpg)](https://www.youtube.com/watch?v=13Q6qLhceL8)
 
 ## Results
 
